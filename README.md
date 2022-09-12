@@ -1,2 +1,4 @@
-# Mein erstes (nicht ;) ) Git Repeositorium
-2022-09-12
+# Mein erstes Git Repeositorium
+
+- Autor: **adf278e**
+- Datum: **2022-09-12**
